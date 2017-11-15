@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-public class MainActivity extends AppCompatActivity implements BlankFragment2.OnFragmentInteractionListener, BlankFragment3.OnFragmentInteractionListener{
+public class MainActivity extends AppCompatActivity implements BlankFragment1.OnFragmentInteractionListener, BlankFragment2.OnFragmentInteractionListener, BlankFragment3.OnFragmentInteractionListener{
 
     LinearLayout lf1;
     FrameLayout f2;
